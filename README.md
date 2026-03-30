@@ -4,6 +4,7 @@ Social Bingo game for in-person mixers. Find people who match the questions and 
 
 📚 **[View Lab Guide](workshop/GUIDE.md)**
 🚀 **[Start with setup flow](workshop/01-setup.md)**
+🎮 **[Play the Game](https://yaganti96.github.io/agent-lab-benleane/game/)**
 
 ---
 
